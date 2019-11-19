@@ -1,3 +1,3 @@
 # DevOps
 
-CI/CD Pipleine Demp
+CI/CD Pipleine Demo
